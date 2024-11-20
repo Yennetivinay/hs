@@ -1,0 +1,4 @@
+# SCHOOL MANAGEMENT COMMITTEE
+
+
+![PDF Viewer](SMC.pdf)
